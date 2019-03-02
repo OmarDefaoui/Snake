@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Snake</string>
+
+    //fragment_lose.xml
+    <string name="snake">Snake</string>
+    <string name="you_lose">You lose !</string>
+    <string name="start_new_game">Start new game</string>
+    <string name="share_app">Share app</string>
+
+    //lose.kt
+    <string name="your_best_score_is">Your best score is:</string>
+    <string name="in">in</string>
+    <string name="your_score_is">Your score is:</string>
+    <string name="share_title">The most wonderful classical snake</string>
+    <string name="share_link">https://play.google.com/store/apps/details?id=com.nordef.snake</string>
+    <string name="share_with">Share with:</string>
+
+    //custom_alert_dialog
+    <string name="more_lower_fast">More the speed is lower,\n more you go fast</string>
+    <string name="ok">OK</string>
+    <string name="resume">Resume</string>
+    <string name="main">Main</string>
+    <string name="your_current_score_is">Your current score is:</string>
+    <string name="current_speed_is">The current speed is:</string>
+
+    //game.kt
+    <string name="score">Score :</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+//French
+
+<string name="app_name">Snake</string>
+<string name="snake">Snake</string>
+<string name="you_lose">Tu as perdu !</string>
+<string name="start_new_game">Nouvelle partie</string>
+<string name="share_app">Partager l\'app</string>
+<string name="your_best_score_is">Votre meilleur score est:</string>
+<string name="in">dans</string>
+<string name="your_score_is">Ton score est:</string>
+<string name="share_title">Le plus merveilleux snake classique</string>
+<string name="share_with">Partager avec:</string>
+<string name="more_lower_fast">Plus la vitesse est basse,\n plus vous allez vite</string>
+<string name="ok">OK</string>
+<string name="resume">Continuer</string>
+<string name="main">Principale</string>
+<string name="your_current_score_is">Votre score actuel est:</string>
+<string name="current_speed_is">La vitesse actuelle est:</string>
+<string name="score">Score :</string>
+
+</resources>
